@@ -12,7 +12,7 @@ import numpy as np
 from typing import List, Callable, Union
 from PyQt5 import QtCore, QtWidgets, QtGui
 from PyQt5.QtCore import Qt
-from GUI.FlowLayout import FlowLayout
+from FlowLayout import FlowLayout
 import param as pm
 
 

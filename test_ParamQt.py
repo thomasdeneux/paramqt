@@ -1,5 +1,5 @@
 import numpy as np
-from GUI.ParamQt import *
+from ParamQt import *
 
 TEST_INSTANCE = True
 
