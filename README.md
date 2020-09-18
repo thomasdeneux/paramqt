@@ -13,5 +13,5 @@ defined (e.g. `ObjectSelector` -> dropdown menu or cycling button)
 Test it with `test_param.py`! (you can try both `TEST_INSTANCE = True` or 
 `False` at the top).
 
-![](paramqt/doc/_static/test_paramqt.png)
+![](paramqt/doc/_static/paramqt_example.png)
 
