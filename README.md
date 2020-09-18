@@ -1,4 +1,4 @@
-# param_qt
+# paramqt
 Qt interface for param
 
 - automatic generation of control panels and menus
